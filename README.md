@@ -46,7 +46,7 @@ https://www.linkedin.com/in/armdlb/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=armdlb&show_icons=true&theme=radical&border_radius=10&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armdlb&layout=compact&theme=radical&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArielM457&show_icons=true&theme=radical&border_radius=10&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielM457&layout=compact&theme=radical&border_radius=10" />
 </div>
 
